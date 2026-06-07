@@ -26,7 +26,7 @@ Add screenshots of the website here.
 
 ## 🚀 Live Demo
 
-[Live Website Link]
+bobaholic-demo.vercel.app
 
 ## 💻 Installation
 
